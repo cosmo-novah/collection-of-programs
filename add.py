@@ -1,4 +1,4 @@
-x = 10
-y = 60
+x = 50
+z = 4216
 
-print("The sum of 10 and 60 is:", x + y)
+print("The sum is:", x + y)
