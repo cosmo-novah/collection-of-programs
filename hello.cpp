@@ -4,12 +4,13 @@ using namespace std;
 
 int main()
 {
-    cout << "Please enter a string: ";
+    int arr[100];
+    
+    for (int i = 0; i < 100; i++) {
+        arr[i] = i;
+    }
 
-    string input;
-    getline(cin, input);
-
-    cout << "The string you inputed is: " << input << endl;
+    cout << arr[52] << endl;
 
     return 0;
 }

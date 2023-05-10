@@ -1,4 +1,4 @@
-x = 50
-z = 4216
+h = 210
+v = 90
 
-print("The sum is:", x + y)
+print("The sum of 210 and 90 is:", x + y)

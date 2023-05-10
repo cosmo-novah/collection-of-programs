@@ -1,4 +1,4 @@
-y = 200
-z = 7000
+t = 69
+q = 400
 
-print(y * z)
+print(t * q)
