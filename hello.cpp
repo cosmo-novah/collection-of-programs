@@ -4,7 +4,13 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world! What a beautiful day is!";
+    int arr[100];
+    
+    for (int i = 0; i < 100; i++) {
+        arr[i] = i;
+    }
+
+    cout << arr[52] << endl;
 
     return 0;
 }
