@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <string>
 using namespace std;
 
 int main()
@@ -10,7 +10,7 @@ int main()
         arr[i] = i;
     }
 
-    cout << arr[52] << endl;
+    cout << arr[25] << " " << arr[25] + arr [69] << endl;
 
     return 0;
 }
