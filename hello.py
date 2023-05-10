@@ -1,3 +1,3 @@
 tmp = input("Enter a string: ")
 
-print(tmp)
+print("The string you inputed is:", tmp)
